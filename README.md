@@ -2,7 +2,7 @@
 ============
 
 I made this scraper during [OKFestival
-2014](http://2014.okfestival.org), for more info about #FlashHacks see:
+2014](http://2014.okfestival.org), for more info about #FlashHacks visit:
 
 - [Launching #FlashHacks: a crowdscraping movement to release 10
 million data points in 10
@@ -18,7 +18,7 @@ Swiss aircraft registry
 The data is from the [Swiss Federal Office of Civil
 Aviation](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/).
 
-To learn more about turbot see http://turbot.opencorporates.com.
+To learn more about turbot visit http://turbot.opencorporates.com.
 
 The expected output of scraper.rb is:
 
