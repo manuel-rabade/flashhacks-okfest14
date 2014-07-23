@@ -1,18 +1,23 @@
-#FlashHacks
-===========
+FlashHacks
+==========
 
-I made this scraper during #FlashHacks at (OKFestival
-2014)[http://2014.okfestival.org], for more info visit [#FlashHacks:
-the start of a crowdscraping
+I made this scraper during (OKFestival
+2014)[http://2014.okfestival.org]. For more info visit [Launching
+#FlashHacks: a crowdscraping movement to release 10 million data points
+in 10 days. Are you
+in?](http://blog.opencorporates.com/2014/07/08/launching-flashhacks-a-crowdscraping-movement-to-release-10-million-data-points-in-10-days-are-you-in/)
+and [#FlashHacks: the start of a crowdscraping
 movement](http://blog.opencorporates.com/2014/07/21/flashhacks-the-start-of-a-crowdscraping-movement/).
 
 Swiss aircraft registry
 -----------------------
 
-The data is from the [Federal Office of Civil Aviation,
-Switzerland)](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/),
-to lear more about turbot visit http://turbot.opencorporates.com. The
-expected output of scraper.rb is:
+The data is from the [Federal Office of Civil
+Aviation](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/) of Switzerland.
+
+To learn more about turbot visit http://turbot.opencorporates.com.
+
+The expected output of scraper.rb is:
 
 ```
 $ ruby scraper.rb 
@@ -26,6 +31,7 @@ Offset: 0
 Finished!
 ```
 
-Where each line is a swiss aircraft registry. You can preview the
-output of the bot at
+Where each line is a swiss aircraft registration.
+
+You can preview the output of the bot at
 http://turbot.opencorporates.com/bots/swiss_aircraft_registry/runs/draft.
