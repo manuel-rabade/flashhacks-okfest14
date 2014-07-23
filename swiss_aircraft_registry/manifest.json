@@ -1,0 +1,14 @@
+{
+  "bot_id": "swiss_aircraft_registry",
+  "title": "Swiss Aircraft Registry",
+  "description": "The Swiss Aircraft Registry shows all registered aircraft in Switzerland. It contains detailed information regarding owner, holder, type of aircraft, year of construction, serial number, maximum takeoff weight (MTOM) and noise-related class.",
+  "language": "ruby",
+  "data_type": "primary data",
+  "identifying_fields": [
+    "registration"
+  ],
+  "files": [
+    "scraper.rb"
+  ],
+  "frequency": "monthly"
+}
