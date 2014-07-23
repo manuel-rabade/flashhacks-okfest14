@@ -2,11 +2,13 @@ FlashHacks
 ==========
 
 I made this scraper during [OKFestival
-2014](http://2014.okfestival.org). For more info see
+2014](http://2014.okfestival.org), for more info about #FlashHacks see:
+
 [Launching #FlashHacks: a crowdscraping movement to release 10 million
 data points in 10 days. Are you
 in?](http://blog.opencorporates.com/2014/07/08/launching-flashhacks-a-crowdscraping-movement-to-release-10-million-data-points-in-10-days-are-you-in/)
-and [#FlashHacks: the start of a crowdscraping
+
+[#FlashHacks: the start of a crowdscraping
 movement](http://blog.opencorporates.com/2014/07/21/flashhacks-the-start-of-a-crowdscraping-movement/).
 
 Thanks to [Open Corporates](https://opencorporates.com/) for the challenge.
@@ -14,8 +16,8 @@ Thanks to [Open Corporates](https://opencorporates.com/) for the challenge.
 Swiss aircraft registry
 -----------------------
 
-The data is from the [Federal Office of Civil
-Aviation](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/) of Switzerland.
+The data is from the [Swiss Federal Office of Civil
+Aviation](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/).
 
 To learn more about turbot see http://turbot.opencorporates.com.
 
