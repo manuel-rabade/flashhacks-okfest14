@@ -20,6 +20,9 @@ Aviation](http://www.bazl.admin.ch/experten/luftfahrzeuge/luftfahrzeugregister/)
 
 To learn more about turbot visit http://turbot.opencorporates.com.
 
+You can preview the output of the bot at
+http://turbot.opencorporates.com/bots/swiss_aircraft_registry/runs/draft.
+
 The expected output of scraper.rb is (each line is a swiss aircraft registration):
 
     $ ruby scraper.rb 
@@ -38,6 +41,3 @@ The expected output of scraper.rb is (each line is a swiss aircraft registration
     ...
     ...
     Finished!
-
-You can preview the output of the bot at
-http://turbot.opencorporates.com/bots/swiss_aircraft_registry/runs/draft.
