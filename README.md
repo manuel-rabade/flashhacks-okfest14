@@ -41,3 +41,14 @@ The expected output of scraper.rb is (each line is a swiss aircraft registration
     ...
     ...
     Finished!
+
+Author
+------
+
+Manuel Rábade <[manuel@rabade.net](mailto:manuel@rabade.net)>
+
+License
+-------
+
+This work is published under the [Creative Commons Attribution-ShareAlike
+4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
